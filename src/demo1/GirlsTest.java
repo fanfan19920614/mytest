@@ -8,4 +8,5 @@ public class GirlsTest {
         Moneyservice moneyservice = new Moneyservice();
         moneyservice.updateservice("王","王二",10.00);
     }
+	//5555
 }
